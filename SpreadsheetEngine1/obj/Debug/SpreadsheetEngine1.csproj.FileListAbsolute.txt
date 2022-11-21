@@ -1,0 +1,6 @@
+C:\Users\12063\Documents\GitLab\CPTS 321\HW\cpts321hw\Spreadsheet_Jonathan_Banos\SpreadsheetEngine1\bin\Debug\SpreadsheetEngine1.dll
+C:\Users\12063\Documents\GitLab\CPTS 321\HW\cpts321hw\Spreadsheet_Jonathan_Banos\SpreadsheetEngine1\bin\Debug\SpreadsheetEngine1.pdb
+C:\Users\12063\Documents\GitLab\CPTS 321\HW\cpts321hw\Spreadsheet_Jonathan_Banos\SpreadsheetEngine1\obj\Debug\SpreadsheetEngine1.csproj.AssemblyReference.cache
+C:\Users\12063\Documents\GitLab\CPTS 321\HW\cpts321hw\Spreadsheet_Jonathan_Banos\SpreadsheetEngine1\obj\Debug\SpreadsheetEngine1.csproj.CoreCompileInputs.cache
+C:\Users\12063\Documents\GitLab\CPTS 321\HW\cpts321hw\Spreadsheet_Jonathan_Banos\SpreadsheetEngine1\obj\Debug\SpreadsheetEngine1.dll
+C:\Users\12063\Documents\GitLab\CPTS 321\HW\cpts321hw\Spreadsheet_Jonathan_Banos\SpreadsheetEngine1\obj\Debug\SpreadsheetEngine1.pdb
