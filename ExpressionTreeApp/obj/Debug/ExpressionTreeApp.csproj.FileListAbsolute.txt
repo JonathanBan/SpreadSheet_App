@@ -1,0 +1,10 @@
+C:\Users\12063\Documents\GitLab\CPTS 321\HW\cpts321hw\Spreadsheet_Jonathan_Banos\ExpressionTreeApp\bin\Debug\ExpressionTreeApp.exe
+C:\Users\12063\Documents\GitLab\CPTS 321\HW\cpts321hw\Spreadsheet_Jonathan_Banos\ExpressionTreeApp\bin\Debug\ExpressionTreeApp.pdb
+C:\Users\12063\Documents\GitLab\CPTS 321\HW\cpts321hw\Spreadsheet_Jonathan_Banos\ExpressionTreeApp\bin\Debug\SpreadsheetEngine1.dll
+C:\Users\12063\Documents\GitLab\CPTS 321\HW\cpts321hw\Spreadsheet_Jonathan_Banos\ExpressionTreeApp\bin\Debug\SpreadsheetEngine1.pdb
+C:\Users\12063\Documents\GitLab\CPTS 321\HW\cpts321hw\Spreadsheet_Jonathan_Banos\ExpressionTreeApp\obj\Debug\ExpressionTreeApp.csproj.AssemblyReference.cache
+C:\Users\12063\Documents\GitLab\CPTS 321\HW\cpts321hw\Spreadsheet_Jonathan_Banos\ExpressionTreeApp\obj\Debug\ExpressionTreeApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\12063\Documents\GitLab\CPTS 321\HW\cpts321hw\Spreadsheet_Jonathan_Banos\ExpressionTreeApp\obj\Debug\ExpressionTreeApp.csproj.CoreCompileInputs.cache
+C:\Users\12063\Documents\GitLab\CPTS 321\HW\cpts321hw\Spreadsheet_Jonathan_Banos\ExpressionTreeApp\obj\Debug\ExpressionTreeApp.csproj.CopyComplete
+C:\Users\12063\Documents\GitLab\CPTS 321\HW\cpts321hw\Spreadsheet_Jonathan_Banos\ExpressionTreeApp\obj\Debug\ExpressionTreeApp.exe
+C:\Users\12063\Documents\GitLab\CPTS 321\HW\cpts321hw\Spreadsheet_Jonathan_Banos\ExpressionTreeApp\obj\Debug\ExpressionTreeApp.pdb
