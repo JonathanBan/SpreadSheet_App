@@ -1,0 +1,16 @@
+C:\Users\12063\Documents\GitLab\CPTS 321\HW\cpts321hw\Spreadsheet_Jonathan_Banos\Spreadsheet_Jonathan_Banos\bin\Debug\Spreadsheet_Jonathan_Banos.exe.config
+C:\Users\12063\Documents\GitLab\CPTS 321\HW\cpts321hw\Spreadsheet_Jonathan_Banos\Spreadsheet_Jonathan_Banos\bin\Debug\Spreadsheet_Jonathan_Banos.exe
+C:\Users\12063\Documents\GitLab\CPTS 321\HW\cpts321hw\Spreadsheet_Jonathan_Banos\Spreadsheet_Jonathan_Banos\bin\Debug\Spreadsheet_Jonathan_Banos.pdb
+C:\Users\12063\Documents\GitLab\CPTS 321\HW\cpts321hw\Spreadsheet_Jonathan_Banos\Spreadsheet_Jonathan_Banos\bin\Debug\SpreadsheetEngine1.dll
+C:\Users\12063\Documents\GitLab\CPTS 321\HW\cpts321hw\Spreadsheet_Jonathan_Banos\Spreadsheet_Jonathan_Banos\bin\Debug\SpreadsheetEngine1.pdb
+C:\Users\12063\Documents\GitLab\CPTS 321\HW\cpts321hw\Spreadsheet_Jonathan_Banos\Spreadsheet_Jonathan_Banos\obj\Debug\Spreadsheet_Jonathan_Banos.csproj.AssemblyReference.cache
+C:\Users\12063\Documents\GitLab\CPTS 321\HW\cpts321hw\Spreadsheet_Jonathan_Banos\Spreadsheet_Jonathan_Banos\obj\Debug\Spreadsheet_Jonathan_Banos.csproj.SuggestedBindingRedirects.cache
+C:\Users\12063\Documents\GitLab\CPTS 321\HW\cpts321hw\Spreadsheet_Jonathan_Banos\Spreadsheet_Jonathan_Banos\obj\Debug\Spreadsheet_Jonathan_Banos.Form1.resources
+C:\Users\12063\Documents\GitLab\CPTS 321\HW\cpts321hw\Spreadsheet_Jonathan_Banos\Spreadsheet_Jonathan_Banos\obj\Debug\Spreadsheet_Jonathan_Banos.Properties.Resources.resources
+C:\Users\12063\Documents\GitLab\CPTS 321\HW\cpts321hw\Spreadsheet_Jonathan_Banos\Spreadsheet_Jonathan_Banos\obj\Debug\Spreadsheet_Jonathan_Banos.csproj.GenerateResource.cache
+C:\Users\12063\Documents\GitLab\CPTS 321\HW\cpts321hw\Spreadsheet_Jonathan_Banos\Spreadsheet_Jonathan_Banos\obj\Debug\Spreadsheet_Jonathan_Banos.csproj.CoreCompileInputs.cache
+C:\Users\12063\Documents\GitLab\CPTS 321\HW\cpts321hw\Spreadsheet_Jonathan_Banos\Spreadsheet_Jonathan_Banos\obj\Debug\Spreadsheet_Jonathan_Banos.csproj.CopyComplete
+C:\Users\12063\Documents\GitLab\CPTS 321\HW\cpts321hw\Spreadsheet_Jonathan_Banos\Spreadsheet_Jonathan_Banos\obj\Debug\Spreadsheet_Jonathan_Banos.exe
+C:\Users\12063\Documents\GitLab\CPTS 321\HW\cpts321hw\Spreadsheet_Jonathan_Banos\Spreadsheet_Jonathan_Banos\obj\Debug\Spreadsheet_Jonathan_Banos.pdb
+C:\Users\12063\Documents\GitLab\CPTS 321\HW\cpts321hw\Spreadsheet_Jonathan_Banos\Spreadsheet_Jonathan_Banos\bin\Debug\ExpressionTreeApp.exe
+C:\Users\12063\Documents\GitLab\CPTS 321\HW\cpts321hw\Spreadsheet_Jonathan_Banos\Spreadsheet_Jonathan_Banos\bin\Debug\ExpressionTreeApp.pdb
